@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 1d9658a3-d4ce-144c-ee1a-572374367e00
 ---
@@ -112,6 +114,6 @@ Willcox, K., and J. Peraire. ![This resource may not render correctly in a scree
 
 Xiu, Dongbin, and George Em Karniadakis. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Wiener-Askey Polynomial Chaos for Stochastic Differential Equations." (PDF)](http://www.dam.brown.edu/scicomp/media/report_files/BrownSC-2003-07.pdf)
 
-Yang, Allen Y., Arvind Ganesh, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Review of Fast l1\-Minimization Algorithms for Robust Face Recognition." (PDF)](https://arxiv.org/pdf/1007.3753.pdf) (2010).
+Yang, Allen Y., Arvind Ganesh, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Review of Fast l{{< sub "1" >}}\-Minimization Algorithms for Robust Face Recognition." (PDF)](https://arxiv.org/pdf/1007.3753.pdf) (2010).
 
 Zucchini, Walter. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["An Introduction to Model Selection." (PDF)](https://www.sciencedirect.com/science/article/pii/S0022249699912762) _Journal of Mathematical Psychology_ 44 (2000): 41–61.
