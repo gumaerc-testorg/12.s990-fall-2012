@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 175df96f-7082-ce6c-bcea-2a7f4c1818e0
 resourcetype: Other
 title: kernelest.m
 uid: dd283c87-8806-2b2a-293c-cf78aaf07fea

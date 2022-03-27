@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e0002871-d5bb-07d1-0832-1d3fa2cc1be8
 resourcetype: Document
 title: Quantifying Uncertainty, Lecture 12-13
 uid: 20bf3f28-0bd4-f99b-02c6-75d1e7366c43

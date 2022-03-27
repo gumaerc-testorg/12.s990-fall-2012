@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 3663e882-ad13-fa64-cc59-a6e88e889a8e
 resourcetype: Document
 title: Factor analysis techniques in single-particle aerosol mass spectrometry
 uid: 7e6b1c7e-1308-4bc3-1273-7c9af6af1fe8

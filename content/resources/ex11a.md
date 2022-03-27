@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 175df96f-7082-ce6c-bcea-2a7f4c1818e0
 resourcetype: Other
 title: ex11a.m
 uid: d362ec31-5da0-5b94-2cb1-fc03d85bfef3

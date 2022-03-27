@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 3663e882-ad13-fa64-cc59-a6e88e889a8e
 resourcetype: Document
 title: Probabilistic Collocation Method (PCM) for modeling response of GEOS-Chem simulations
   to model parameter uncertainties
