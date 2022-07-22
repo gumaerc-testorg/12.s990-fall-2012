@@ -5,6 +5,7 @@ file: /courses/12-s990-quantifying-uncertainty-fall-2012/d362ec315da05b942cb1fc0
 file_type: text/x-objcsrc
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ex11a.m
 uid: d362ec31-5da0-5b94-2cb1-fc03d85bfef3
 ---
 This is a special file of the software used in Lecture 10.
-

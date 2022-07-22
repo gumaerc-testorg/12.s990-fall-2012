@@ -5,6 +5,7 @@ file: /courses/12-s990-quantifying-uncertainty-fall-2012/460352b6495b762eee087ce
 file_type: text/x-objcsrc
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dt.m
 uid: 460352b6-495b-762e-ee08-7ceff6386a36
 ---
 This is a special file of the software used in Lecture 10.
-

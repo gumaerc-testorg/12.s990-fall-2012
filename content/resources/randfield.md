@@ -5,6 +5,7 @@ file: /courses/12-s990-quantifying-uncertainty-fall-2012/28106fcd0d490541514f993
 file_type: text/x-objcsrc
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: randfield.m
 uid: 28106fcd-0d49-0541-514f-9939855454fe
 ---
 This is a special file of the software used in Lecture 10.
-

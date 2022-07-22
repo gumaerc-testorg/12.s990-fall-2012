@@ -5,6 +5,7 @@ file: /courses/12-s990-quantifying-uncertainty-fall-2012/692436864f5206bab4d8296
 file_type: text/x-objcsrc
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: icaexample.m
 uid: 69243686-4f52-06ba-b4d8-2969150e1dbe
 ---
 This is a special file of the software used in Lecture 10.
-

@@ -5,6 +5,7 @@ file: /courses/12-s990-quantifying-uncertainty-fall-2012/cc6e493561e6428ec26a293
 file_type: text/x-objcsrc
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: mani.m
 uid: cc6e4935-61e6-428e-c26a-2939c8e5d588
 ---
 This is a special file of the software used in Lecture 10.
-
