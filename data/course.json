@@ -2,6 +2,7 @@
   "term": "Fall",
   "year": "2012",
   "level": [
+    "Undergraduate",
     "Graduate"
   ],
   "topics": [
@@ -51,6 +52,7 @@
     "Projects with Examples",
     "Lecture Notes"
   ],
-  "site_uid": "75c728be-ad48-4a65-9fa2-b62172a2ecf8",
+  "site_uid": "c05c519a-aaa4-42e5-b77a-3c4a7a03aeb1",
+  "site_short_id": "12.s990-fall-2012",
   "title": "Course Metadata"
 }
