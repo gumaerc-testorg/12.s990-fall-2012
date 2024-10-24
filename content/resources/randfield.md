@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file of the software used in Lecture 10.
-file: /courses/12-s990-quantifying-uncertainty-fall-2012/28106fcd0d490541514f9939855454fe_randfield.m
+file: /ol-ocw-studio-app/courses/12-s990-quantifying-uncertainty-fall-2012/28106fcd0d490541514f9939855454fe_randfield.m
 file_size: 345
 file_type: text/x-objcsrc
 learning_resource_types:
