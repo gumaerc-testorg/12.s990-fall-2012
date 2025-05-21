@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding quantifying
   uncertainty.
-file: /ol-ocw-studio-app/courses/12-s990-quantifying-uncertainty-fall-2012/a1cf07c268b15238d4351c512d31b28b_MIT12_S990F12_Summary.pdf
+file: /courses/12-s990-quantifying-uncertainty-fall-2012/a1cf07c268b15238d4351c512d31b28b_MIT12_S990F12_Summary.pdf
 file_size: 1565740
 file_type: application/pdf
 learning_resource_types:
