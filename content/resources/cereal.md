@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file of the software used in Lecture 10.
-file: /ol-ocw-studio-app/courses/12-s990-quantifying-uncertainty-fall-2012/ebd1b1fe4b76d80c27ea13037868d23e_cereal.mat
+file: /courses/12-s990-quantifying-uncertainty-fall-2012/ebd1b1fe4b76d80c27ea13037868d23e_cereal.mat
 file_size: 968
 file_type: application/octet-stream
 learning_resource_types:
