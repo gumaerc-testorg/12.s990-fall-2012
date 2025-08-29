@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file of the software used in Lecture 10.
-file: /courses/12-s990-quantifying-uncertainty-fall-2012/dd283c8788062b2a293ccf78aaf07fea_kernelest.m
+file: /ol-ocw-studio-app/courses/12-s990-quantifying-uncertainty-fall-2012/dd283c8788062b2a293ccf78aaf07fea_kernelest.m
 file_size: 613
 file_type: text/x-objcsrc
 learning_resource_types:
