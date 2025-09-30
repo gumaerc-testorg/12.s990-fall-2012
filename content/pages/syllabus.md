@@ -56,17 +56,17 @@ General References
 
 Bryson, Jr. Arthur E. and Yu-Chi Ho. _Applied Optimal Control: Optimization, Estimation and Control_. Taylor & Francis, 1975. ISBN: 9780891162285.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262570480) Gelb, Arthur. [_Applied Optimal Estimation_](https://mitpress.mit.edu/9780262570480). MIT Press, 1974. ISBN: 9780262570480.
+{{% resource_link "96874a89-5e89-47fa-8941-dc3e0693bb15" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Gelb, Arthur. {{% resource_link "96874a89-5e89-47fa-8941-dc3e0693bb15" "_Applied Optimal Estimation_" %}}. MIT Press, 1974. ISBN: 9780262570480.
 
 Gelman, A., J. Carlin, et al. _Bayesian Data Analysis_. Chapman and Hall, 2003. ISBN: 9781584883883.
 
-Martinez, W. L., and A. R. Martinez. _Computational Statistics Handbook with MATLAB_. 2nd ed. Chapman and Hall/CRC, 2007. ISBN: 978158488566. \[Preview with [Google Books](http://books.google.com/books?id=WhTNBQAAQBAJ&pg=Pafrontcover)\]
+Martinez, W. L., and A. R. Martinez. _Computational Statistics Handbook with MATLAB_. 2nd ed. Chapman and Hall/CRC, 2007. ISBN: 978158488566. \[Preview with {{% resource_link "b252726f-da0c-424f-bc13-5e5bca8f6656" "Google Books" %}}\]
 
 Papoulis, A. _Probability, Random Variables & Stochastic Processes_. McGraw-Hill, 2002. ISBN: 9780071226615.
 
 Silverman, B. W. _Density Estimation for Statistics and Data Analysis_. Chapman and Hall/CRC, 1986. ISBN: 9780412246203.
 
-[Double Pendulum](http://www.myphysicslab.com/dbl_pendulum.html).
+{{% resource_link "c96d1ed5-e08d-451b-bca6-3e546146e794" "Double Pendulum" %}}.
 
 Grading
 -------
